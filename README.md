@@ -11,3 +11,7 @@ This is my first notebook on Kaggle. I was a newbie, and the notebook had so man
 This notebook is inspired by [Intermediate Machine Learning (IML)](https://www.kaggle.com/learn/intermediate-machine-learning) Course by [Alexis Cook](https://www.kaggle.com/alexisbcook) at [Kaggle Learn](https://www.kaggle.com/learn/overview).
 
 It includes solutions for handling missing values, dealing with categorical variables, using Scikit-learn library pipelines, cross-validation and XGBoost on **Ames Housing dataset**.
+
+### 3 - housing-prices-pipeline-starter-code
+
+This is a Scikit-learn pipeline tutorial on **Ames Housing dataset**. It includes preprocessing, validation, cross-validation, prediction, saving, and submission to the competition steps.  

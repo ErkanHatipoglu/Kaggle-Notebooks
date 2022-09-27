@@ -14,4 +14,16 @@ It includes solutions for handling missing values, dealing with categorical vari
 
 ### 3 - housing-prices-pipeline-starter-code
 
-This is a Scikit-learn pipeline tutorial on **Ames Housing dataset**. It includes preprocessing, validation, cross-validation, prediction, saving, and submission to the competition steps.  
+This is a Scikit-learn pipeline tutorial on **Ames Housing dataset**. It includes preprocessing, validation, cross-validation, prediction, saving, and submission to the competition steps. 
+
+### 4 - introduction-to-sklearn-pipelines-with-titanic 
+
+A comprehensive tutorial about Scikit-learn library pipelines. The notebook includes:
+
+* Pipelines,
+* Estimators,
+* fit and transform mechanism,
+* Custom Transformers,
+* Column Transformers,
+* Feature Unions,
+* Implementing a Scikit-learn pipeline from start to end with tabular data.

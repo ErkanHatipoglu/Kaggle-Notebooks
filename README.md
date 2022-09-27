@@ -12,9 +12,9 @@ Data &rarr; [Titanic - Machine Learning from Disaster](https://www.kaggle.com/co
 
 This notebook is inspired by [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) Course by [Alexis Cook](https://www.kaggle.com/alexisbcook) at [Kaggle Learn](https://www.kaggle.com/learn/overview).
 
-Data &rarr; [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/competitions/home-data-for-ml-course/data)
-
 It includes solutions for handling missing values, dealing with categorical variables, using Scikit-learn library pipelines, cross-validation and XGBoost on **Ames Housing dataset**.
+
+Data &rarr; [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/competitions/home-data-for-ml-course/data)
 
 ### 3 - housing-prices-pipeline-starter-code.ipynb
 

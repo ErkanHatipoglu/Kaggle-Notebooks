@@ -8,7 +8,7 @@ This is my first notebook on Kaggle. I was a newbie, and the notebook had so man
 
 ### 2 - intermediate-machine-learning-course-helper.ipynb
 
-This notebook is inspired by [Intermediate Machine Learning (IML)](https://www.kaggle.com/learn/intermediate-machine-learning) Course by [Alexis Cook](https://www.kaggle.com/alexisbcook) at [Kaggle Learn](https://www.kaggle.com/learn/overview).
+This notebook is inspired by [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) Course by [Alexis Cook](https://www.kaggle.com/alexisbcook) at [Kaggle Learn](https://www.kaggle.com/learn/overview).
 
 It includes solutions for handling missing values, dealing with categorical variables, using Scikit-learn library pipelines, cross-validation and XGBoost on **Ames Housing dataset**.
 
@@ -35,3 +35,15 @@ A tutorial on using GridSearchCV with Scikit-learn library pipelines. It is fork
 ### 6 - titanic-on-function-transformers-and-pipelines.ipynb
 
 A tutorial on using function transformers with Scikit-learn library pipelines.
+
+### 7 - heart-failure-prediction-with-xgboost.ipynb
+
+This is a notebook for predicting cardiovascular death events using [Heart failure clinical records](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data).
+
+The notebook includes:
+* Scikit-learn library Pipelines,
+* Validation with early_stopping_rounds,
+* Grid Search,
+* Cross-validation,
+* confusion matrix,
+* accuracy, precision, recall, f1_score from scratch.

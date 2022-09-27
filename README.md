@@ -51,3 +51,7 @@ The notebook includes:
 ### 8 - house-prices-using-pipelines.ipynb
 
 This is a notebook similar to housing-prices-pipeline-starter-code.ipynb (#3). It is submitted to the GettingStarted Prediction Competition [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
+
+### 9 - univariate-linear-regression-from-scratch.ipynb
+
+This tutorial notebook explains basic machine learning concepts such as univariate linear regression, the hypothesis, the cost function, and gradient descent.

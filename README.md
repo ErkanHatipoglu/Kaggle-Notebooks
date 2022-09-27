@@ -12,11 +12,15 @@ Data &rarr; [Titanic - Machine Learning from Disaster](https://www.kaggle.com/co
 
 This notebook is inspired by [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) Course by [Alexis Cook](https://www.kaggle.com/alexisbcook) at [Kaggle Learn](https://www.kaggle.com/learn/overview).
 
+Data &rarr; [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/competitions/home-data-for-ml-course/data)
+
 It includes solutions for handling missing values, dealing with categorical variables, using Scikit-learn library pipelines, cross-validation and XGBoost on **Ames Housing dataset**.
 
 ### 3 - housing-prices-pipeline-starter-code.ipynb
 
 This is a Scikit-learn pipeline tutorial on **Ames Housing dataset**. It includes preprocessing, validation, cross-validation, prediction, saving, and submission to the competition steps. 
+
+Data &rarr; [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/competitions/home-data-for-ml-course/data)
 
 ### 4 - introduction-to-sklearn-pipelines-with-titanic.ipynb 
 
@@ -30,17 +34,25 @@ A comprehensive tutorial about Scikit-learn library pipelines. The notebook incl
 * Feature Unions,
 * Implementing a Scikit-learn pipeline from start to end with tabular data.
 
+Data &rarr; [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data)
+
 ### 5 - housing-prices-gridsearchcv-example.ipynb
 
-A tutorial on using GridSearchCV with Scikit-learn library pipelines. It is forked from the housing-prices-pipeline-starter-code.ipynb and GridSearchCV part is added. 
+A tutorial on using GridSearchCV with Scikit-learn library pipelines. It is forked from the housing-prices-pipeline-starter-code.ipynb and GridSearchCV part is added.
+
+Data &rarr; [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/competitions/home-data-for-ml-course/data) 
 
 ### 6 - titanic-on-function-transformers-and-pipelines.ipynb
 
 A tutorial on using function transformers with Scikit-learn library pipelines.
 
+Data &rarr; [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data)
+
 ### 7 - heart-failure-prediction-with-xgboost.ipynb
 
 This is a notebook for predicting cardiovascular death events using [Heart failure clinical records](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data).
+
+Data &rarr; [Heart Failure Prediction](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data)
 
 The notebook includes:
 * Scikit-learn library Pipelines,
@@ -54,6 +66,10 @@ The notebook includes:
 
 This is a notebook similar to housing-prices-pipeline-starter-code.ipynb (#3). It is submitted to the GettingStarted Prediction Competition [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 
+Data &rarr; [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+
 ### 9 - univariate-linear-regression-from-scratch.ipynb
 
 This tutorial notebook explains basic machine learning concepts such as univariate linear regression, the hypothesis, the cost function, and gradient descent.
+
+Data &rarr; [Linear Regression](https://www.kaggle.com/datasets/andonians/random-linear-regression)

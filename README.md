@@ -52,8 +52,6 @@ Data &rarr; [Titanic - Machine Learning from Disaster](https://www.kaggle.com/co
 
 This is a notebook for predicting cardiovascular death events using [Heart failure clinical records](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data).
 
-Data &rarr; [Heart Failure Prediction](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data)
-
 The notebook includes:
 * Scikit-learn library Pipelines,
 * Validation with early_stopping_rounds,
@@ -61,6 +59,8 @@ The notebook includes:
 * Cross-validation,
 * confusion matrix,
 * accuracy, precision, recall, f1_score from scratch.
+
+Data &rarr; [Heart Failure Prediction](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data)
 
 ### 8 - house-prices-using-pipelines.ipynb
 

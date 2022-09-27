@@ -31,3 +31,7 @@ A comprehensive tutorial about Scikit-learn library pipelines. The notebook incl
 ### 5 - housing-prices-gridsearchcv-example.ipynb
 
 A tutorial on using GridSearchCV with Scikit-learn library pipelines. It is forked from the housing-prices-pipeline-starter-code.ipynb and GridSearchCV part is added. 
+
+### 6 - titanic-on-function-transformers-and-pipelines.ipynb
+
+A tutorial on using function transformers with Scikit-learn library pipelines.

@@ -47,3 +47,7 @@ The notebook includes:
 * Cross-validation,
 * confusion matrix,
 * accuracy, precision, recall, f1_score from scratch.
+
+### 8 - house-prices-using-pipelines.ipynb
+
+This is a notebook similar to housing-prices-pipeline-starter-code.ipynb (#3). It is submitted to the GettingStarted Prediction Competition [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).

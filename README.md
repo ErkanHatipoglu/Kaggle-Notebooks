@@ -6,6 +6,8 @@ This repository is for my public notebooks on Kaggle. The explanation for each n
 
 This is my first notebook on Kaggle. I was a newbie, and the notebook had so many mistakes. I keep it since it is my first notebook. 
 
+Data &rarr; [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data)
+
 ### 2 - intermediate-machine-learning-course-helper.ipynb
 
 This notebook is inspired by [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) Course by [Alexis Cook](https://www.kaggle.com/alexisbcook) at [Kaggle Learn](https://www.kaggle.com/learn/overview).

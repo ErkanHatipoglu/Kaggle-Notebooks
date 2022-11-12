@@ -72,4 +72,8 @@ Data &rarr; [House Prices - Advanced Regression Techniques](https://www.kaggle.c
 
 This tutorial notebook explains basic machine learning concepts such as univariate linear regression, the hypothesis, the cost function, and gradient descent.
 
-Data &rarr; [Linear Regression](https://www.kaggle.com/datasets/andonians/random-linear-regression)
+### 10 - multivariate-linear-regression-from-scratch.ipynb
+
+This is the current project I am working on.
+
+Data &rarr; [Graduate Admission 2](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions?datasetId=14872)

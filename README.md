@@ -103,3 +103,11 @@ This tutorial notebook explains how to implement the hypothesis, cost function, 
 Original Notebook on Kaggle &rarr; [Multivariate Linear Regression From Scratch](https://www.kaggle.com/code/erkanhatipoglu/multivariate-linear-regression-from-scratch)
 
 Data &rarr; [Graduate Admission 2](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions?datasetId=14872)
+
+### 11 - [linear-regression-using-the-normal-equation.ipynb](https://github.com/ErkanHatipoglu/Kaggle-Notebooks/blob/main/linear-regression-using-the-normal-equation.ipynb)
+
+This is my current project!
+
+Original Notebook on Kaggle &rarr; [Linear Regression Using the Normal Equation](https://www.kaggle.com/code/erkanhatipoglu/linear-regression-using-the-normal-equation)
+
+Data &rarr; [Graduate Admission 2](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions?datasetId=14872)
